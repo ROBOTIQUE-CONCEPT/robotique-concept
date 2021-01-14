@@ -1,0 +1,17 @@
+{
+    "name": "jean-patrick/robotique-concept",
+    "description": "Robotique Concept Plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Jean-Patrick",
+            "email": "herbute.jp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Inc\\": "./inc"}
+    }
+}
